@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32427.441
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SharedProject", "SharedProject\SharedProject.shproj", "{BC2E9DEE-20E6-4BBF-AA2D-6A76C1CC113E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceDictionary_Problem", "ResourceDictionary_Problem\ResourceDictionary_Problem.csproj", "{7F5E4D5A-9934-4FBA-B2E2-A1622EAD8DD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F5E4D5A-9934-4FBA-B2E2-A1622EAD8DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F5E4D5A-9934-4FBA-B2E2-A1622EAD8DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F5E4D5A-9934-4FBA-B2E2-A1622EAD8DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F5E4D5A-9934-4FBA-B2E2-A1622EAD8DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F081170E-1A05-495D-95E0-6EEC0B027D8E}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		SharedProject\SharedProject.projitems*{7f5e4d5a-9934-4fba-b2e2-a1622ead8dd6}*SharedItemsImports = 4
+		SharedProject\SharedProject.projitems*{bc2e9dee-20e6-4bbf-aa2d-6a76c1cc113e}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal
