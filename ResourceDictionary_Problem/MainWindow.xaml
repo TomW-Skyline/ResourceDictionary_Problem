@@ -10,10 +10,9 @@
     <Window.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="pack://application:,,,/ResourceDictionary_Problem;component/Theme/Shared.xaml" />
+                <ResourceDictionary Source="/Shared.xaml" />
 
             </ResourceDictionary.MergedDictionaries>
-
 
         </ResourceDictionary>
     </Window.Resources>
