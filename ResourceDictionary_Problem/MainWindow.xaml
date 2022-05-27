@@ -10,7 +10,7 @@
     <Window.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="/Shared.xaml" />
+                <ResourceDictionary Source="/Theme/Shared.xaml" />
 
             </ResourceDictionary.MergedDictionaries>
 
